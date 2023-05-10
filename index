@@ -1,0 +1,59 @@
+<!Doctype html>
+<html>
+<title>باران عشق</title>
+
+<head>
+
+    <link rel="alternate" href="http://cheshmazarmusic.ir" hreflang="fa-ir" />
+    <link rel="shortcut icon" href="pics/home.jpg" />
+    <link rel="stylesheet" href="style.css" />
+    <style>
+        body {
+            background-image: url("pics/home.jpg");
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-position: center;
+            background-size: cover;
+            color: white;
+        }
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+
+    <header id="header">
+        <input type="search" />
+        <input type="submit" value="جستجو" />
+        <h3 class="animation1">باران عشق</h3>
+    </header>
+
+    <nav class="menu">
+        <ul>
+            <li><a href="index.html" title="خانه" target="_self">&#9751خانه</a></li>
+            <li><a href="bio.html" title="زندگینامه" target="_self">&#9997زندگینامه </a></li>
+            <li><a href="gallery.html" title="گالری" target="_self">&#10047 گالری</a></li>
+            <li><a href="asar.html" title="آثار" target="_self">&#9835 آثار</a></li>
+            <li><a href="contact.html" title="تماس با ما" target="_self">&#9742تماس با ما</a></li>
+        </ul>
+    </nav>
+
+
+
+
+    <main class="animation2">
+        <h1><em>زندگی و آثار استاد ناصر چشم آذر</em></h1>
+    </main>
+    <!-- <i class=" fas fa-plus" style="background-color:red;border-radius:50% ;"> </i> -->
+
+    <div><img class="fixed" src="pics/cover.jpg" /></div>
+    <footer id="footer">
+        <p>&#10000 Designed by:Iman Saranjam <br>
+            &#9993 E-mail:saranjam62@gmail.com <br>
+            copyright &#169 2022</p>
+    </footer>
+
+</body>
+
+</html>
